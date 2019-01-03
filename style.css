@@ -21,13 +21,13 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("header.jpg");
+  background-image: url("header2.jpg");
   background-size: cover;
   height: 100%;
 }
 
 header.startup hr {
-  margin-top: 200px;
+  margin-top: 20px;
   margin-bottom: 30px; 
 }
 
